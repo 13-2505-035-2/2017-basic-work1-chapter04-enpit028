@@ -138,3 +138,4 @@ public class ResultActivity extends AppCompatActivity {
         return hand;
     }
 }
+
